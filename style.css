@@ -1,0 +1,18 @@
+body
+{
+    background :linear-gradient(purple 0%,rgb(241, 101, 124) 100%);
+    color: rgb(255, 255, 255);
+}
+.heading
+{
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#camera,#result
+{
+    border: 3px solid black;
+    width: 400px;
+    height: 350px;
+    border-radius: 20px;
+}
